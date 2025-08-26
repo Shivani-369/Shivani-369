@@ -1,9 +1,8 @@
 # Hi there, I'm Shivani 👋
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="Coding Animation" />
 
-Welcome to my GitHub!  
-I'm a passionate B.Tech Computer Science and Engineering student at VIT Chennai.
+## Welcome to my GitHub!  
+** I'm a passionate B.Tech Computer Science and Engineering student at VIT Chennai. **
 
 ---
 
