@@ -2,7 +2,7 @@
 
 
 ## Welcome to my GitHub!  
-** I'm a passionate B.Tech Computer Science and Engineering student at VIT Chennai. **
+I'm a passionate B.Tech Computer Science and Engineering student at VIT Chennai.
 
 ---
 
