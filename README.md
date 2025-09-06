@@ -33,7 +33,7 @@ I'm a passionate B.Tech Computer Science and Engineering student at VIT Chennai.
 
 - [Portfolio Website](https://sites.google.com/vitstudent.ac.in/shivani?usp=sharing)
 - [LinkedIn](https://www.linkedin.com/in/suja-shivani-573947337/)
-- [Email](mailto:shivani63124@gmail.com)
+- [Email](shivani63124@gmail.com)
 
 ---
 
