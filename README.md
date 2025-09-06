@@ -8,11 +8,10 @@ I'm a passionate B.Tech Computer Science and Engineering student at VIT Chennai.
 
 ## 🚀 About Me
 
-- 🎓 **Current Student** at VIT Chennai, specializing in Computer Science and Engineering.
-- 💡 **Portfolio:** [View My Work](https://sites.google.com/vitstudent.ac.in/shivani?usp=sharing)
+- 🎓 ** Student** at VIT Chennai, specializing in Computer Science and Engineering.
+- 💡 **Portfolio:** (https://sites.google.com/vitstudent.ac.in/shivani?usp=sharing)
 - 👩‍💻 Always eager to learn new technologies, solve real-world problems, and collaborate on innovative projects.
 - 🌱 Currently exploring advanced topics in AI and Software Engineering.
-- 💬 Ask me about CSE topics, coding, or anything tech-related!
 
 ---
 
@@ -20,7 +19,7 @@ I'm a passionate B.Tech Computer Science and Engineering student at VIT Chennai.
 
 - **Languages:** Python, C, Java
 - **Web:** HTML, CSS
-- **Tools:** Git, GitHub, VS Code, Pytorch
+- **Tools:** Git, GitHub, VS Code, TensorFlow
 - **Domains:** Machine Learning, Data Structures & Algorithms
 
 ---
